@@ -1,0 +1,1 @@
+The code implements the EGMD dual stochastic process for HSI classification. The article is currently being written or submitted. The results are presented in IPython Notebook (ipynb) format, and once the article is accepted, all the code will be made open-source.
